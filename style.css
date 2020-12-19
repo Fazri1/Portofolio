@@ -1,0 +1,28 @@
+body {
+  background-color: #afaaaa;
+}
+
+.content {
+  text-align: center;
+  margin: 100px 0;
+}
+
+.container-fluid {
+  margin-top: 50px;
+}
+.title {
+  margin-top: 30px;
+}
+
+.titl {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 30px;
+}
+footer {
+  margin-top: 100px;
+  color: #ffffff;
+  text-align: center;
+}
